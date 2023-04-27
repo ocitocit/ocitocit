@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ocitocit&label=Profile%20views&color=0e75b6&style=flat" alt="ocitocit" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/0citocit" target="blank"><img src="https://img.shields.io/twitter/follow/0citocit?logo=twitter&style=for-the-badge" alt="0citocit" /></a> </p>
-
 - 🔭 I’m currently working on [Mern-simple-note](https://github.com/ocitocit/MERN-NotesApp)
 
 - 🌱 I’m currently learning **node,react,redux**
