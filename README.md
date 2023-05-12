@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ocitocit&label=Profile%20views&color=0e75b6&style=flat" alt="ocitocit" /> </p>
 
-
-- 🔭 I’m currently working on [Mern-simple-note](https://github.com/ocitocit/MERN-NotesApp)
-
 - 🌱 I’m currently learning **node,react,redux**
 
 - 👯 I’m looking to collaborate on **react project**
