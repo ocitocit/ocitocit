@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **react project**
 
+- 👨‍💻 All of my projects are available at [www.ocitocit.xyz](https://www.ocitocit.xyz)
+
 - 📫 How to reach me **ocritocrit@gmail.com**
 
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/1WlZf8lnblgVUJ0Ami-wy-s02cKyVaJ-zv-1KmBhMpTk/edit?usp=sharing)
