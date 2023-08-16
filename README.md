@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ocitocit&label=Profile%20views&color=0e75b6&style=flat" alt="ocitocit" /> </p>
 
-- 🌱 I’m currently learning **node,react,redux**
+- 🌱 I’m currently learning **angular,svelte**
 
-- 👯 I’m looking to collaborate on **react project**
+- 👯 I’m looking to collaborate on **js project**
 
 - 👨‍💻 All of my projects are available at [www.ocitocit.co](https://www.ocitocit.co)
 
